@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  smp-botengine:
+  - apiVersion: v1
+    appVersion: 18.9.1.0-SNAPSHOT
+    created: 2018-10-11T06:24:54.734Z
+    description: Nokia Service Management Platform Bot engine
+    digest: 3246d8fb81de6f9e4e9c0d482c6f6dec3001bdb63d8231fed36d0a855cba4cfd
+    name: smp-botengine
+    urls:
+    - https://github.com/helloram07/firstest/blob/master/py-k8s-0.1.0.tgz
+    version: 18.9.1-20181011-0549
